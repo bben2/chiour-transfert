@@ -1,1 +1,1 @@
-Fichiers temporaires de transfert. Supprimes apres publication.
+Depot vide. Fichiers temporaires supprimes.
