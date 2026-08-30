@@ -1,0 +1,19 @@
+{
+  "siman": 423,
+  "heading_fr": "Ordre de la lecture de la Torah a Roch Hodesh",
+  "summary": "En bref: a Roch Hodesh on dit Kaddish titkabel, on sort un sefer Torah et quatre hommes lisent, sans rien oter ni ajouter et sans haftara. Le cohen, le levi, l'israel et le quatrieme se partagent Bemidbar 28. On dit ensuite Kaddish, Aschrei et Ouva leTsiyon, sans le psaume Yaankha, on range le sefer Torah, on prie Moussaf (kedoucha Keter avec la suite de Chaharit) puis le psaume Barkhi nafchi. On a coutume d'oter les tefilin avant Moussaf.",
+  "glossary": [
+    {"term": "Kaddish titkabel", "fr": "Kaddish integral dit apres une tefila avec repetition"},
+    {"term": "maftir / haftara", "fr": "lecture conclusive dans les Prophetes; absente a Roch Hodesh ordinaire"},
+    {"term": "Moussaf", "fr": "tefila additionnelle du jour ou l'on offrait le sacrifice musaf"},
+    {"term": "Keter", "fr": "ouverture de la kedoucha de Moussaf selon certains rites"},
+    {"term": "Barkhi nafchi", "fr": "Psaume 104, recite a Roch Hodesh apres Moussaf"}
+  ],
+  "he": [
+    "\u05e1\u05d3\u05e8 \u05e7\u05e8\u05d9\u05d0\u05ea \u05d4\u05ea\u05d5\u05e8\u05d4 \u05d1\u05e8\"\u05d7. \u05d5\u05d1\u05d5 \u05d3 \u05e1\u05e2\u05d9\u05e4\u05d9\u05dd: \u05d0\u05d5\u05de\u05e8 \u05e7\u05d3\u05d9\u05e9 \u05ea\u05ea\u05e7\u05d1\u05dc \u05d5\u05db\u05d5' \u05d5\u05de\u05d5\u05e6\u05d9\u05d0\u05d9\u05df \u05e1\"\u05ea \u05d5\u05e7\u05d5\u05e8\u05d9\u05dd \u05d1\u05d5 \u05d3' \u05d0\u05d9\u05df \u05e4\u05d5\u05d7\u05ea\u05d9\u05df \u05de\u05d4\u05dd \u05d5\u05d0\u05d9\u05df \u05de\u05d5\u05e1\u05d9\u05e4\u05d9\u05df \u05e2\u05dc\u05d9\u05d4\u05dd \u05d5\u05d0\u05d9\u05df \u05de\u05e4\u05d8\u05d9\u05e8\u05d9\u05df \u05d1\u05e0\u05d1\u05d9\u05d0:",
+    "PLACEHOLDER"
+  ],
+  "fr": ["x"],
+  "source_he": "Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893",
+  "source_fr": "traduction originale"
+}
