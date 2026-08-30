@@ -1,0 +1,19 @@
+{
+  "siman": 359,
+  "heading_fr": "Loi de l'esplanade derriere les maisons",
+  "summary": "En bref: une esplanade derriere les maisons de plus de deux seot, non encloisonnee pour habiter, n'autorise le port que dans 4 coudees. Si l'on y a ouvert une porte depuis la maison puis encloisonne, c'est un enclos pour habiter. De nos jours, ces cours sont generalement tenues pour encloisonnees pour habiter.",
+  "glossary": [
+    {"term": "rehava", "fr": "esplanade, place derriere les maisons"},
+    {"term": "goren", "fr": "aire a battre le grain"},
+    {"term": "karpef", "fr": "enclos hors d'une cour d'habitation"},
+    {"term": "moukaf le-dira", "fr": "enclos pour habiter"}
+  ],
+  "he": [
+    "\u05d3\u05d9\u05df \u05e8\u05d7\u05d1\u05d4 \u05e9\u05d0\u05d7\u05d5\u05e8\u05d9 \u05d4\u05d1\u05ea\u05d9\u05dd. \u05d5\u05d1\u05d5 \u05e1\u05e2\u05d9\u05e3 \u05d0\u05d7\u05d3: PLACEHOLDER"
+  ],
+  "fr": [
+    "Loi de l'esplanade derriere les maisons. Il y a un seif. Une esplanade derriere les maisons, plus grande que deux seot et qui n'a pas ete encloisonnee pour habiter: on n'y porte que dans 4 coudees. Si l'on y a ouvert une porte depuis sa maison puis encloisonne, meme s'il y a une aire entre elle et la maison, c'est un enclos pour habiter. Rema : si nous ne prenons pas garde au port dans les cours derriere les maisons, c'est qu'a present elles sont en general encloisonnees pour habiter, comme on l'a explique plus haut au sujet du karpef (Daat Atsmo)."
+  ],
+  "source_he": "Sefaria \u2014 Maginei Eretz, Lemberg 1893 \u2014 Choulhan Aroukh Orah Haim 359 (champ he seulement)",
+  "source_fr": "traduction francaise d apres le champ he Sefaria (Maginei Eretz Lemberg 1893), siman 359"
+}
