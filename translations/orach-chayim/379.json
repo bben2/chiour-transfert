@@ -1,0 +1,33 @@
+{
+  "siman": 379,
+  "heading_fr": "Lois des cours et des maisons situees entre elles",
+  "summary": "En bref: Deux hatsarot separees par des maisons peuvent se joindre par un seul erouv place dans la maison du milieu : les maisons laterales comptent alors comme beit chaar et n'ont pas a donner de pain. Si chaque hatsar pose son erouv dans la maison qui touche l'autre hatsar, l'erouv n'est pas acquis, car chacun l'a depose dans le beit chaar de l'autre.",
+  "glossary": [
+    {
+      "term": "erouv",
+      "fr": "fusion des domaines pour permettre le teltoul le Chabbat"
+    },
+    {
+      "term": "hatsar",
+      "fr": "cour interieure sur laquelle s'ouvrent des maisons"
+    },
+    {
+      "term": "beit chaar",
+      "fr": "maison-porche ou loge servant d'acces, inapte a recevoir l'erouv"
+    },
+    {
+      "term": "pat",
+      "fr": "pain depose pour constituer l'erouv"
+    }
+  ],
+  "he": [
+    "דין חצירו' ובתים ביניהם. ובו ב סעיפים:\nב' חצירו' וג' בתים ביניהם פתוחים זה לזה ורוצים לערב יחד חצר זה בא דרך בית שאצלו ונותן עירובו בבי' שבאמצע וכן עושה השניה ומותרים בשלשתן שכל בית שאצל החצר חשוב לו כבית שער וא\"צ ליתן פת והאמצעי הוא בית שמניחין בו עירוב וא\"צ ליתן פת:",
+    "שני חצירו' ושני בתים ביניהם ולא עירבו יחד אלא כל אחת לעצמה ובא מן חצר זה דרך בית שאצלו והניח עירובו בבי' שאצל השני וכן עשה השני שגם הוא הניח עירובו בבית הסמוך לחצר האחר' לא קנו עירוב שכל א' הניח עירוב בבי' שער של חצר אחרת:"
+  ],
+  "fr": [
+    "Deux hatsarot et trois maisons entre elles, ouvertes les unes aux autres, veulent faire erouv ensemble : cette hatsar vient par la maison qui la touche et depose son erouv dans la maison du milieu, et la seconde fait de meme. Ils sont alors permis dans les trois, car chaque maison attenante a la hatsar compte pour elle comme beit chaar et n'a pas a donner de pat, et la maison du milieu est celle ou l'on depose l'erouv et n'a pas non plus a donner de pat.",
+    "Deux hatsarot et deux maisons entre elles, qui n'ont pas fait erouv ensemble mais chacune pour soi : un habitant de cette hatsar vient par la maison qui la touche et depose son erouv dans la maison attenante a la seconde, et le second fait de meme, deposant aussi son erouv dans la maison attenante a l'autre hatsar. Ils n'ont pas acquis d'erouv, car chacun a depose l'erouv dans le beit chaar de l'autre hatsar."
+  ],
+  "source_he": "Sefaria — Maginei Eretz, Lemberg 1893 — Choulhan Aroukh Orah Haim 379 (champ he seulement)",
+  "source_fr": "traduction francaise d apres le champ he Sefaria (Maginei Eretz Lemberg 1893), siman 379"
+}
