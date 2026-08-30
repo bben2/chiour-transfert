@@ -1,0 +1,18 @@
+{
+  "siman": 384,
+  "heading_fr": "Si un akoum akhsenai empeche",
+  "summary": "En bref: Un akoum entre sans permission n'interdit jamais. Entre avec permission : s'il vient d'habitude, il interdit aussitot ; sinon, seulement apres trente jours. Des soldats du roi loges de force ou de gre n'interdisent pas si le maitre de maison a laisse sur place des objets interdits au teltoul le Chabbat.",
+  "glossary": [
+    {"term": "akhsenai", "fr": "hote de passage, loge temporairement"},
+    {"term": "akoum", "fr": "non-juif idolatre"},
+    {"term": "teltoul", "fr": "transport d'objets d'un domaine a l'autre le Chabbat"}
+  ],
+  "he": [
+    "עכו\"ם אכסנאי אם מעכב. ובו ב סעיפים:\nעכו\"ם הנכנס לשם אכסנאות אם נכנס שלא ברשות אינו אוסר לעולם ואם נכנס ברשות אם הוא רגיל לבא אוסר מיד ואם אינו רגיל אינו אוסר עד לאחר שלשים יום:\nאנשי חיל המלך שנכנסו בבתי היהודים בין בחזקה בין ברצון אם יש לבעלי בתים באותם מקומות שנכנסו העכו\"ם כלים שאסור לטלטלם בשבת אינם אוסרים עליהם:"
+  ],
+  "fr": [
+    "Si un akoum akhsenai empeche. Il y a 2 seifim. Un akoum qui entre comme akhsenai : s'il est entre sans permission, il n'interdit jamais. S'il est entre avec permission : s'il a l'habitude de venir, il interdit aussitot ; s'il n'en a pas l'habitude, il n'interdit qu'apres trente jours. Des hommes de la troupe du roi entres dans les maisons des Juifs, que ce soit de force ou de gre : si les maitres de maison ont, dans ces lieux ou les akoum sont entres, des objets qu'il est interdit de teltoul le Chabbat, ils ne leur interdisent pas."
+  ],
+  "source_he": "Sefaria — Maginei Eretz, Lemberg 1893 — Choulhan Aroukh Orah Haim 384 (champ he seulement)",
+  "source_fr": "traduction francaise d apres le champ he Sefaria (Maginei Eretz Lemberg 1893), siman 384"
+}
