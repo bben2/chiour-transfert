@@ -1,0 +1,25 @@
+{
+  "siman": 332,
+  "heading_fr": "Ne pas accoucher la bete le Chabbat",
+  "summary": "En bref: On n'assiste pas la bete qui met bas le Chabbat. On ne soigne pas une plaie deja fermee pour le seul confort. Au debut de la plaie, s'il y a souffrance, c'est permis. On peut faire courir une bete trop gorgee de vesces. S'il y a doute de mort sans saignee, on peut demander a un non-juif de la saigner.",
+  "glossary": [
+    {"term": "meyaldim", "fr": "assister activement une mise bas"},
+    {"term": "gilde makah", "fr": "croutes d'une plaie"},
+    {"term": "karshinim", "fr": "vesces, fourrage qui gonfle"},
+    {"term": "hakaza", "fr": "saignee"}
+  ],
+  "he": [
+    "שלא לילד הבהמה בשבת. ובו ד סעיפים: אין מילדין את הבהמה בשבת:",
+    "אין מפרכין לבהמה גלדי מכה ולא סכין אותה בשמן וה\"מ בגמר מכה דליכא אלא משום תענוג אבל בתחלת מכה דאיכא צערא שרי:",
+    "אם אכלה כרשינין הרבה ומצטערת יכול להריצה בחצר כדי שתייגע ותתרפא:",
+    "אם אחזה דם יכול להעמידה במים כדי שתצטנן ואם הוא ספק שאם לא יקיז לה דם תמות מותר לומר לעכו\"ם להקיזה:"
+  ],
+  "fr": [
+    "Ne pas accoucher la bete le Chabbat. Quatre seifim. On n'assiste pas la bete qui met bas le Chabbat.",
+    "On n'ote pas a la bete les croutes d'une plaie et on ne l'oind pas d'huile. Cela vaut pour une plaie deja fermee, ou il n'y a que du confort. Mais au debut de la plaie, s'il y a souffrance, c'est permis.",
+    "Si elle a mange beaucoup de vesces et qu'elle souffre, on peut la faire courir dans la cour pour qu'elle se fatigue et se soulage.",
+    "Si le sang l'a saisie, on peut la tenir dans l'eau pour qu'elle se refroidisse. S'il y a doute que, sans saignee, elle meure, on a le droit de dire a un non-juif de la saigner."
+  ],
+  "source_he": "Sefaria, Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893 (champ he)",
+  "source_fr": "traduction originale d'apres le champ he Maginei Eretz Lemberg 1893"
+}
