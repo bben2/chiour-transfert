@@ -1,0 +1,18 @@
+{
+  "siman": 373,
+  "heading_fr": "Deux gezouztraot sur deux aliyot",
+  "summary": "En bref: deux balcons qui se font face, relies par un madrier de quatre tefahim, valent une issue et l'on erouve ensemble. A moins de quatre tefahim d'ecart, meme sans madrier. S'ils ne se font pas face, ou si l'un est plus haut, ce n'est pas une issue, sauf s'ils sont a moins de trois tefahim, en ecart ou en hauteur.",
+  "glossary": [
+    {"term": "gezouztra", "fr": "balcon en saillie depuis une aliya"},
+    {"term": "aliya", "fr": "etage superieur"},
+    {"term": "tefah", "fr": "paume, unite de largeur et de hauteur"}
+  ],
+  "he": [
+    "דין שתי גזוזטראות בשתי עליות. ובו סעיף אחד:\nשתי גזוזטראו' הבולטו' משני עליו' זו כנגד זו ונתן ביניהם נסר רחב ארבע' הרי הוא כפתח ומערבין יחד: הגה ואם אין המרחק שביניהם ארבעה אפילו בלא נסר נמי דינא הכי (המגיד פ\"ג) ואם רצו כל א' מערבת לעצמה אבל אם היו זו שלא כנגד זו שאחת משוכה למזרח וא' למערב אינם יכולים לערב יחד וכן אם היתה אחת גבוה מחבירת' לא חשיב פתח והני מילי כשמרוחקו' זו מזו ג\"ט אבל אם הם תוך ג' זו לזו בין בריחוק בין בגובה חשיב שפיר כפתח:"
+  ],
+  "fr": [
+    "Deux gezouztraot sur deux aliyot. Il y a un seif. Deux gezouztraot en saillie depuis deux aliyot, l'une vis-a-vis de l'autre: si l'on a place entre elles un madrier large de quatre [tefahim], cela vaut une issue et l'on erouve ensemble. Rema : Si la distance entre elles n'est pas de quatre, meme sans madrier la loi est la meme. Si elles veulent, chacune erouve pour soi. Mais si elles n'etaient pas l'une vis-a-vis de l'autre, l'une tiree vers l'est et l'autre vers l'ouest, elles ne peuvent pas erouver ensemble. De meme, si l'une etait plus haute que l'autre, cela ne compte pas comme issue. Cela n'est dit que lorsqu'elles sont eloignees l'une de l'autre de trois tefahim; mais si elles sont a moins de trois l'une de l'autre, que ce soit en eloignement ou en hauteur, cela compte bien comme issue."
+  ],
+  "source_he": "Sefaria — Maginei Eretz, Lemberg 1893 — Choulhan Aroukh Orah Haim 373 (champ he seulement)",
+  "source_fr": "traduction francaise d apres le champ he Sefaria (Maginei Eretz Lemberg 1893), siman 373"
+}

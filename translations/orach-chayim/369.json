@@ -1,0 +1,20 @@
+{
+  "siman": 369,
+  "heading_fr": "De quelle maniere on acquiert l'erouv",
+  "summary": "En bref: donner une piece au boulanger en disant si les voisins achetent un pain d'erouv, acquiers-moi une part, ne suffit pas, meme si le boutiquier zokeh aussi pour lui. Erouve pour moi suffit. Zekhe li ne suffit que s'il y a un kinyan par un objet, un zikui par un tiers, ou l'achat d'un pain au marche avec cette piece. Donner la piece au maitre de maison en disant zekhe li baerouv suffit.",
+  "glossary": [
+    {"term": "erouv", "fr": "pain de fusion des cours qui autorise le transport le Shabbat"},
+    {"term": "nahtom", "fr": "boulanger"},
+    {"term": "zikui", "fr": "acquisition d'un droit pour autrui"},
+    {"term": "kinyan", "fr": "acte d'acquisition"},
+    {"term": "zekhe li", "fr": "acquiers pour moi"}
+  ],
+  "he": [
+    "באיזה אופן מקנין העירוב. ובו סעיף אחד:\nהנותן מעות לנחתום ואמר לו אם יבואו בני חצר לקנו' ממך ככר לעירוב זכה לי בעירוב שיהא לי חלק עמהם בשביל מעה זו אינו עירוב אפילו עירב החנוני [לכל האחרים] וזכה גם לזה עמהם אבל אם אמר לו ערב לי קנה עירוב ואפילו אם אמר זכה לי אם נתן לו כלי בתור' קנין שיקנה לו בו קנה עירוב וכן אם זיכה לו הנחתום ע\"י אחר או שקנה במעה שנתן לו לחם מן השוק קנה עירוב ואם נתן מעה לבעל הבי' ואמר לו זכה לי בעירוב קנה עירוב:"
+  ],
+  "fr": [
+    "De quelle maniere on acquiert l'erouv. Il y a un seif. Celui qui donne de l'argent au nahtom et lui dit: si les habitants de la hatser viennent t'acheter un pain pour l'erouv, acquiers pour moi dans l'erouv afin que j'aie une part avec eux grace a cette piece — ce n'est pas un erouv, meme si le boutiquier a erouve [pour tous les autres] et a aussi zokeh pour celui-ci avec eux. Mais s'il lui dit erouve pour moi, il a acquis l'erouv. Meme s'il a dit zekhe li, s'il lui a donne un objet a titre de kinyan afin qu'il acquiere pour lui par cet objet, il a acquis l'erouv. De meme, si le nahtom a fait zikui pour lui par l'intermediaire d'un tiers, ou s'il a achete avec la piece qu'on lui a donnee du pain au marche, il a acquis l'erouv. S'il a donne une piece au maitre de maison et lui a dit zekhe li baerouv, il a acquis l'erouv."
+  ],
+  "source_he": "Sefaria — Maginei Eretz, Lemberg 1893 — Choulhan Aroukh Orah Haim 369 (champ he seulement)",
+  "source_fr": "traduction francaise d apres le champ he Sefaria (Maginei Eretz Lemberg 1893), siman 369"
+}
