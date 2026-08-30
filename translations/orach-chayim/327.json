@@ -1,0 +1,26 @@
+{
+  "siman": 327,
+  "heading_fr": "Lois de l'onction le Chabbat",
+  "summary": "En bref: On n'oint pas a titre de soin de facon evidente. L'huile seule est permise si l'usage local n'en fait pas un remede. On oint et on masse pour le plaisir, avec un changement : onction et massage ensemble, sans force. On ne se grate pas avec l'outil prevu, sauf salete. On n'oint pas le pied dans la chaussure, car cela ramollit le cuir comme un tannage.",
+  "glossary": [
+    {"term": "sikha", "fr": "onction d'huile ou de produit sur le corps"},
+    {"term": "shemen vered", "fr": "huile de rose, remede reconnue"},
+    {"term": "ibud", "fr": "tannage du cuir, melakha interdite"},
+    {"term": "shinui", "fr": "geste fait autrement qu'en semaine"},
+    {"term": "tsidhoud", "fr": "lustrage du cuir"}
+  ],
+  "he": [
+    "דיני סיכה בשבת. ובו ד סעיפים: החושש במתניו לא יסוך שמן וחומץ אבל סך הוא שמן לבדו אבל לא בשמן ורד משום דמוכחא מלתא דלרפואה עביד ואם הוא מקום שמצוי בו שמן ורד ודרך בני אדם לסוכו אפי' בלא רפואה מותר: הגה ובמקום שאין נוהגין לסוך בשמן כי אם לרפואה בכל שמן אסור (בית יוסף):",
+    "סכין וממשמשין להנאתו ע\"י שינוי שסך וממשמש ביחד ולא ימשמש בכח אלא ברפיון ידים:",
+    "אין מגרדין בכלי העשוי לכך אלא אם כן היו ידיו או רגליו מטונפות בטיט וצואה:",
+    "לא יסוך רגלו בשמן והוא בתוך המנעול או הסנדל (החדשים) (מימוני פרק כ\"ג) מפני שהעור מתרכך ודמי לעיבוד אבל סך רגלו ומניחו במנעל וסך כל גופו ומתעגל ע\"ג העור והוא שלא יהא בשמן הנישוף מגופו שיעור כדי לעבדו אפילו יש בו כדי לצחצחו מותר והוא שלא יכוין אפילו לצחצחו:"
+  ],
+  "fr": [
+    "Lois de l'onction le Chabbat. Quatre seifim. Celui qui a mal aux reins n'oindra pas huile et vinaigre. Mais il oindra de l'huile seule, pas de l'huile de rose, parce que le geste montre qu'on le fait pour soigner. Si c'est un lieu ou l'huile de rose est courante et ou les gens s'en oignent meme sans soin, c'est permis. Rema : et dans un lieu ou l'on n'a l'habitude de s'oindre d'huile que pour soigner, toute huile est interdite (Bet Yossef).",
+    "On s'oind et on se masse pour son plaisir, avec un changement : on oint et on masse en meme temps, et on ne massera pas avec force mais les mains relachees.",
+    "On ne se grate pas avec l'ustensile fait pour cela, sauf si les mains ou les pieds sont sales de boue et d'excrement.",
+    "On n'oindra pas son pied d'huile pendant qu'il est dans la chaussure ou le sandale (neuves) (Maimonide ch. 23), parce que le cuir se ramollit et cela ressemble au tannage. Mais on oind son pied puis on le met dans la chaussure, et on oind tout son corps et on se roule sur le cuir, a condition que l'huile qui s'ecoule du corps n'atteigne pas la quantite suffisante pour tanner. Meme s'il y en a assez pour le lustrer, c'est permis, a condition de n'avoir meme pas l'intention de le lustrer."
+  ],
+  "source_he": "Sefaria, Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893 (champ he)",
+  "source_fr": "traduction originale d'apres le champ he Maginei Eretz Lemberg 1893"
+}
